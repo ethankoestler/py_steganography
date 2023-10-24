@@ -1,9 +1,9 @@
-# group_project_cs224
+# cs224_steganography
 
 ## Authors
 
-Jack Hovland, Ethan Koestler, Ryley Larson, and Marissa Manata
+Ethan Koestler, Jack Hovland, Ryley Larson, and Marissa Manata
 
 ## About
 
-This is a steganongraphy application.
+This is a steganongraphy encoding/decoding application. Steganography hides messages into images by manipulating the least significant bit of pixels.
