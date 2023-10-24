@@ -1,5 +1,5 @@
 # 
-# Names: Ethan Koestler, Marissa Manata, Jack Hovland, Ryley Larson
+# Names: Ethan Koestler
 # Date: 11/2021
 # Purpose: Steganography encoding/decoding for images
 # 
